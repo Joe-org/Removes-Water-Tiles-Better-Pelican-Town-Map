@@ -1,5 +1,5 @@
 # Removes-Water-Tiles-Better-Pelican-Town-Map
-A fix for Better Pelican Town Map in which there's 2 specific tiles in a garden area behind the Joja Mart.
+A fix for Better Pelican Town Map in which there's 2 specific tiles in a garden area behind the Joja Mart that in the original file were glitched during Summer & Fall.
 
 -Download the .xnb file
 
